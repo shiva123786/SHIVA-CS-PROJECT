@@ -118,7 +118,7 @@ const Home = () => {
                   </div>
                   <div className="grid grid-cols-2 gap-4 text-center">
                     <div>
-                      <div className="text-2xl font-bold">1000+</div>
+                      <div className="text-2xl font-bold">6000+</div>
                       <div className="text-xs text-blue-200">Lives Touched</div>
                     </div>
                     <div>
@@ -126,7 +126,7 @@ const Home = () => {
                       <div className="text-xs text-blue-200">Volunteers</div>
                     </div>
                     <div>
-                      <div className="text-2xl font-bold">50+</div>
+                      <div className="text-2xl font-bold">65+</div>
                       <div className="text-xs text-blue-200">Programs</div>
                     </div>
                     <div>
